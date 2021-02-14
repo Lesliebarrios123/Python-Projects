@@ -25,7 +25,7 @@ def decryption(W):
     shift = int(shift)
     decrypted_string = ''
     for char in W:
-        if char == "  ":
+        if char == " ":
             decrypted_string = decrypted_string + char
         else:
             decrypted_string = decrypted_string + chr((ord(char) - shift - 97) % 26 + 97)
