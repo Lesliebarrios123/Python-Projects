@@ -1,5 +1,5 @@
 # Python-Projects
-Hello these are some of the projects that I have worked on with python.
+Hello these are some of the projects that I have worked on with python. I use PyCharm IDE.
 
 ---Tic Tac Toe---
 This is a small program that will loop through one game of Tic Tac Toe.
